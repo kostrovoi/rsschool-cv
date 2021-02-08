@@ -16,7 +16,7 @@
 * ### Educational projects:
     * ### [uhost](https://kostrovoi.github.io/uhost/)
     * ### [Marioclub](https://kostrovoi.github.io/Marioclub/)
-    * ### [JavaScript components](https://github.com/kostrovoi/50_projects_from_bradtraversy-)
+    * ### [JavaScript components](https://github.com/kostrovoi/50_projects_from_bradtraversy-/)
 * ### Education:
     * #### The Rolling Scopes school:
         * JavaScript/Front-end Course
