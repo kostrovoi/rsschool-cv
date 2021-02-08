@@ -11,11 +11,12 @@
     * #### CSS
     * #### JavaScript
     * #### VScode, Git
-    * #### Photoshop, Figma
+    * #### Figma
     * #### Bootstrap
 * ### Educational projects:
     * ### [uhost](https://kostrovoi.github.io/uhost/)
     * ### [Marioclub](https://kostrovoi.github.io/Marioclub/)
+    * ### [JavaScript components](https://github.com/kostrovoi/50_projects_from_bradtraversy-)
 * ### Education:
     * #### The Rolling Scopes school:
         * JavaScript/Front-end Course
@@ -26,4 +27,3 @@
         * basics HTML, CSS and JavaScript (completed)
 * ### English language skill:
     * B1 level by quick online-test on www.efset.org
-    * [my Facebook page with a result](https://www.facebook.com/vitaly.marchenko.75)
